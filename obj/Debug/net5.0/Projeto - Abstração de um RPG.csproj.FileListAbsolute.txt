@@ -1,0 +1,16 @@
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\bin\Debug\net5.0\Projeto - Abstração de um RPG.exe
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\bin\Debug\net5.0\Projeto - Abstração de um RPG.deps.json
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\bin\Debug\net5.0\Projeto - Abstração de um RPG.runtimeconfig.json
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\bin\Debug\net5.0\Projeto - Abstração de um RPG.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\bin\Debug\net5.0\Projeto - Abstração de um RPG.dll
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\bin\Debug\net5.0\ref\Projeto - Abstração de um RPG.dll
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\bin\Debug\net5.0\Projeto - Abstração de um RPG.pdb
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.dll
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\ref\Projeto - Abstração de um RPG.dll
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.pdb
+C:\Users\DELL\Desktop\Projetos-Dio\Projeto - Abstração de um RPG\obj\Debug\net5.0\Projeto - Abstração de um RPG.genruntimeconfig.cache
